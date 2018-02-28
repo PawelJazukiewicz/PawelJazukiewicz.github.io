@@ -10,7 +10,7 @@ remote_theme: "PawelJazukiewicz/minimal-mistakes"
 minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "pl-PL"
 title                    : "PJ Portfolio test"
 title_separator          : "-"
 name                     : "Paweł Jazukiewicz"
