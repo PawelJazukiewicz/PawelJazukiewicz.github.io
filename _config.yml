@@ -14,14 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Look Ma, I Put a Window in My Shed.
-email:
+email: PawelJazukiewicz+gh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: dark # mint
+github_username: PawelJazukiewicz
+minimal_mistakes_skin: default # dark # mint
 search: true
 
 # Build settings
@@ -59,33 +58,18 @@ plugins:
 
 author:
   name   : "Paweł Jazukiewicz"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/cv-pixelized.jpg"
   bio    : "Data Analyst from Warsaw, PL"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/PawelJazukiewicz"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/PawelJazukiewicz"
 
 defaults:
   # _posts
