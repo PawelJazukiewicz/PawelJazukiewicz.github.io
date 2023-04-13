@@ -1,5 +1,5 @@
 ---
-title: "Starting out"
+title: "First Post from phone"
 date: 2023-04-13T15:34:30-04:00
 categories:
   - blog
@@ -10,4 +10,4 @@ tags:
 # What is love?
 ## baby dont hurt me
 ### dont hurt me
-no more.
+no more
